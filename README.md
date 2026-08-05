@@ -43,6 +43,7 @@ DATA STRUCTURE WITH JAVA/
 │   ├── 📄 13. Roman_to_Integer.java
 │   ├── 📄 26. Remove_Duplicates_from_Sorted_Array.java
 │   ├── 📄 27. Remove_Element.java
+│   ├── 📄 58. Length_of_Last_Word.java
 │   ├── 📄 121. Best_Time_to_Buy_and_Sell_Stock.java
 │   ├── 📄 150. Merge_Sort_Array.java
 │   └── 📄 169. Majority_Element.java
@@ -64,6 +65,7 @@ DATA STRUCTURE WITH JAVA/
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | 🟢 Easy | Left-to-Right Scan with Subtraction Check | $\mathcal{O}(N)$ | $\mathcal{O}(1)$ | [Code](file:///c:/Users/ans98/OneDrive/Desktop/DATA%20STRUCTURE%20WITH%20JAVA/ARRAY/13.%20Roman_to_Integer.java) |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | Two-Pointer Technique | $\mathcal{O}(N)$ | $\mathcal{O}(1)$ | [Code](file:///c:/Users/ans98/OneDrive/Desktop/DATA%20STRUCTURE%20WITH%20JAVA/ARRAY/26.%20Remove_Duplicates_from_Sorted_Array.java) |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | 🟢 Easy | Two Pointers (In-place) | $\mathcal{O}(N)$ | $\mathcal{O}(1)$ | [Code](file:///c:/Users/ans98/OneDrive/Desktop/DATA%20STRUCTURE%20WITH%20JAVA/ARRAY/27.%20Remove_Element.java) |
+| 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | 🟢 Easy | Reverse Traversal (Right-to-Left) | $\mathcal{O}(N)$ | $\mathcal{O}(1)$ | [Code](file:///c:/Users/ans98/OneDrive/Desktop/DATA%20STRUCTURE%20WITH%20JAVA/ARRAY/58.%20Length_of_Last_Word.java) |
 | 88 / 150 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 Easy | Three Pointers (Backward Merge) | $\mathcal{O}(M + N)$ | $\mathcal{O}(1)$ | [Code](file:///c:/Users/ans98/OneDrive/Desktop/DATA%20STRUCTURE%20WITH%20JAVA/ARRAY/150.%20Merge_Sort_Array.java) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | Single Pass (Min Price Tracking) | $\mathcal{O}(N)$ | $\mathcal{O}(1)$ | [Code](file:///c:/Users/ans98/OneDrive/Desktop/DATA%20STRUCTURE%20WITH%20JAVA/ARRAY/121.%20Best_Time_to_Buy_and_Sell_Stock.java) |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | Boyer-Moore Voting Algorithm | $\mathcal{O}(N)$ | $\mathcal{O}(1)$ | [Code](file:///c:/Users/ans98/OneDrive/Desktop/DATA%20STRUCTURE%20WITH%20JAVA/ARRAY/169.%20Majority_Element.java) |
