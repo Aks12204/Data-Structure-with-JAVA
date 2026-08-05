@@ -41,6 +41,7 @@ DATA STRUCTURE WITH JAVA/
 │
 ├── 📂 ARRAY/
 │   ├── 📄 13. Roman_to_Integer.java
+│   ├── 📄 14. Longest_Common_Prefix.java
 │   ├── 📄 26. Remove_Duplicates_from_Sorted_Array.java
 │   ├── 📄 27. Remove_Element.java
 │   ├── 📄 58. Length_of_Last_Word.java
@@ -63,6 +64,7 @@ DATA STRUCTURE WITH JAVA/
 | # | Problem Title | Difficulty | Optimal Approach | Time Complexity | Space Complexity | Solution File |
 |---|---------------|------------|------------------|-----------------|------------------|---------------|
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | 🟢 Easy | Left-to-Right Scan with Subtraction Check | $\mathcal{O}(N)$ | $\mathcal{O}(1)$ | [Code](file:///c:/Users/ans98/OneDrive/Desktop/DATA%20STRUCTURE%20WITH%20JAVA/ARRAY/13.%20Roman_to_Integer.java) |
+| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 🟢 Easy | Horizontal Scanning (Prefix Reduction) | $\mathcal{O}(S)$ | $\mathcal{O}(1)$ | [Code](file:///c:/Users/ans98/OneDrive/Desktop/DATA%20STRUCTURE%20WITH%20JAVA/ARRAY/14.%20Longest_Common_Prefix.java) |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | Two-Pointer Technique | $\mathcal{O}(N)$ | $\mathcal{O}(1)$ | [Code](file:///c:/Users/ans98/OneDrive/Desktop/DATA%20STRUCTURE%20WITH%20JAVA/ARRAY/26.%20Remove_Duplicates_from_Sorted_Array.java) |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | 🟢 Easy | Two Pointers (In-place) | $\mathcal{O}(N)$ | $\mathcal{O}(1)$ | [Code](file:///c:/Users/ans98/OneDrive/Desktop/DATA%20STRUCTURE%20WITH%20JAVA/ARRAY/27.%20Remove_Element.java) |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | 🟢 Easy | Reverse Traversal (Right-to-Left) | $\mathcal{O}(N)$ | $\mathcal{O}(1)$ | [Code](file:///c:/Users/ans98/OneDrive/Desktop/DATA%20STRUCTURE%20WITH%20JAVA/ARRAY/58.%20Length_of_Last_Word.java) |
